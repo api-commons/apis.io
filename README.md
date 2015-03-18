@@ -1,10 +1,10 @@
 # APIs.io
 
-[APIs.io](http://apis.io) is an experimental API Search service to help discover APIs on the web.
+[APIs.io](http://apis.io) is a search engine for discovering APIs across the web. 
 
-The service uses the [APIs.json](http://apisjson.org) proposed discovery format. To find APIs type in the box.
+The open API search engine depends on APIs.json](http://apisjson.org) format to describe the APIs available within its API index.
 
-To get listed follow the instructions in the FAQ and get and give us feedback!
+You can search for APIs via the classic, simple, text search interface, or via the API.
 
 ## Stack
 
